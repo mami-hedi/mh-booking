@@ -2,7 +2,7 @@
 /**
  * Plugin Name: MH Booking - TidyCal Advanced
  * Description: Réservation WordPress style TidyCal avec créneaux disponibles, couleurs par type, multi-view et confirmation visuelle.
- * Version: 1.0
+ * Version: 1.3
  * Author: MH Digital Solution
  */
 
